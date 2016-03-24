@@ -1,0 +1,2 @@
+tile size : 16.0
+background color : 212,237,234
